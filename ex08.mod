@@ -25,4 +25,5 @@
  subject to
  {
  sum(i in I,j in J)  x[i][j] <=1;
+ 
  }
